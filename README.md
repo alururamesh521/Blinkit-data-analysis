@@ -8,11 +8,11 @@ This repository contains the Power BI dashboard I developed for Blinkit, India's
 - **Key Metrics**: Includes metrics like delivery times, customer satisfaction scores, and operational efficiency.
 - **User-Friendly Interface**: Designed with an intuitive layout for easy navigation and understanding.
 
-## Screenshot
+## Dashboard
 
 ![Screenshot 2024-09-01 140758](https://github.com/user-attachments/assets/f32a65d5-730b-48a7-868a-05b6da6e5174)
 
-> *Screenshot of the Blinkit Dashboard showing key metrics and visualizations.*
+> * Blinkit Dashboard showing key metrics and visualizations.*
 
 ## Getting Started
 
