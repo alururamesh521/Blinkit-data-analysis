@@ -10,14 +10,11 @@ This repository contains the Power BI dashboard I developed for Blinkit, India's
 
 ## Screenshot
 
-![Blinkit Dashboard](path/to/your/screenshot.png)
+![Screenshot 2024-09-01 140758](https://github.com/user-attachments/assets/f32a65d5-730b-48a7-868a-05b6da6e5174)
 
 > *Screenshot of the Blinkit Dashboard showing key metrics and visualizations.*
 
 ## Getting Started
 
 To view and interact with the dashboard:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-dashboard.git
+Download the dashboard
